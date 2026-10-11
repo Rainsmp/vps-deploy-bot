@@ -1,0 +1,13 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.bot.pid
+logs/*
+!logs/.gitkeep
+*.backup
+# Old experimental files
+bot (1).py
+proot
+ubuntu-base-20.04.5-base-amd64.tar.gz
+ubuntu_rootfs/
